@@ -1,5 +1,5 @@
 # Get to know about your favourite Pokemons using this interesting Vuejs app 'Pokemons'
-![Screenshot](../Screenshot(17).png)
+
 
 ## Project setup
 ```
